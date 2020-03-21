@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('NjkwNTY3OTQ3NzMwODEyOTQ4.XnYf6A.Cq5y1xjzjpMgoatPDrbZdLeIp_M');
+client.login('NjkwNTY3OTQ3NzMwODEyOTQ4.XnYpVw.hnenAYHpz-C3VQ4iIYk9bhWHrNc');
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
